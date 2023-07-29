@@ -2,9 +2,9 @@
 <h3 align="center">backend developer from Krasnodar</h3>
 
 Connect with me
-Telegram: https://t.me/Reetz01
+[Telegram](https://t.me/Reetz01)
 
-<a href="https://www.leetcode.com/serebyrakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="serebyrakov" height="30" width="40" /></a>
+[LeetCode] <a href="https://www.leetcode.com/serebyrakov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="serebyrakov" height="30" width="40" /></a>
 
 Feel free to reach out to me on Telegram if you have any questions, want to discuss something, or just want to connect! 📱🙂
 
