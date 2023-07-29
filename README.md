@@ -1,10 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">backend developer from Krasnodar</h3>
 
 <h3 align="left">Connect with me:</h3>
-[Telegram](https://t.me/Reetz01)
 <p align="left">
+<a href="https://twitter.com/reetz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reetz01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/serebyrakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="serebyrakov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
